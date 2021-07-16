@@ -1,16 +1,16 @@
 ## TERMUX C++ COMPILER AND EXECUTER
 
-** A BASH script to compile and execute c++ source files in Termux **
+**A BASH script to compile and execute c++ source files in Termux**
 
 ## Requirement
 - Termux
 - clang
-install clang ```bash pkg install clang```
+install clang ```pkg install clang```
 
 ## Usage
-- Give executable permission by running ```bash chmod +x cpp_compiler.sh```
+- Give executable permission by running ```chmod +x cpp_compiler.sh```
 
-- Run ```bash ./cpp_compiler.sh```
+- Run ```./cpp_compiler.sh```
 
 - Enter name of c++ file to compile
 
